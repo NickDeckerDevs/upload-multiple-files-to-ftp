@@ -3,6 +3,8 @@ upload-multiple-files-to-ftp
 
 Wordpress Plug in to allow for multiple(10) uploads to ftp site - Easy!
 
+Install: into it's own directory in wordpress plugins folder
+
 === Easy FTP Upload ===
 Version 3.0
 Modified by Nicholas Decker 2013. http://meepfacedecker.com
