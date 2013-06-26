@@ -1,8 +1,3 @@
-upload-multiple-files-to-ftp
-============================
-
-Wordpress Plug in to allow for multiple(10) uploads to ftp site - Easy!
-
 === Easy FTP Upload ===
 Version 3.0
 Modified by Nicholas Decker 2013. http://meepfacedecker.com
